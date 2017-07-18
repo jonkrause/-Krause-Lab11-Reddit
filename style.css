@@ -1,0 +1,107 @@
+body {
+    text-align: center;
+}
+
+#container {
+    background-color: white;
+    display: inline-block;
+    width: 65%;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+
+#cont02 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 32px;
+
+}
+
+#invalid {
+    color: firebrick;
+    text-decoration: underline;
+}
+
+.divPosts {
+    border: 0px solid #000;
+    background-color: salmon;
+}
+
+.divTitle {
+    font-family: 'Raleway', sans-serif;
+    background-color: white;
+    font-size: 32px;
+}
+
+.divAuth {
+    font-family: 'Muli', sans-serif;
+
+    background-color: white;
+    
+}
+
+.divComm {
+    font-family: 'Muli', sans-serif;
+
+}
+
+.divImg {
+    width: 100%;
+}
+
+#images {
+    width: 200px;
+}
+
+#quickLinks {
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    color: darkgrey;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#inputs {
+    width: 500px;
+    margin: 0px auto;
+}
+
+#inputText {
+    width: 220px;
+    height: 32px;
+    display: inline-block;
+    border: 0px;
+    border-bottom: 1px solid #333;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    color: darkgrey;
+    outline: none;
+    text-align: center;
+
+}
+
+#btn {
+    width: 202px;
+    height: 50px;
+    display: inline-block;
+    background-color: deepskyblue;
+    color: floralwhite;
+    border: 0px;
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 25px;
+}
+
+#catImg {
+    width: 400px;
+    border-radius: 10px;
+}
